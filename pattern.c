@@ -15,7 +15,7 @@ scanf("%d",&n);
 
         for (j = 0; j <=i; j++)
         {
-                printf("%d",j);
+                printf("%d ",j);
         }
         
         printf("\n");
